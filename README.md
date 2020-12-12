@@ -1,4 +1,6 @@
-# CRUD-JOB-BOARD
+# Link to Demo
+
+https://talent-bait-jobs.herokuapp.com/
  
 # Getting Started with Create React App
 
@@ -18,8 +20,7 @@ You will also see any lint errors in the console.
 
 ### `npm i`
 
-This installs the necessary dependencies required to run the code in your browser.
-
+This installs the necessary dependencies required to run the code in your browser
 
 ### `npm test`
 
